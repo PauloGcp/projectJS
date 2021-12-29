@@ -18,6 +18,11 @@ const cards = [
         nome: "Verificador de Padrões",
         repositorio: "https://github.com/PauloGcp/coisa",
         app: "https://paulogcp.github.io/coisa/"
+    },
+    {
+        nome: "Game Universe",
+        repositorio: "https://github.com/Tinhow/projeto-com-assync/tree/master",
+        app: "https://tinhow.github.io/projeto-com-assync/"
     }
 ];
 
