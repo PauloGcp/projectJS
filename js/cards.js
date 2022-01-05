@@ -23,6 +23,11 @@ const cards = [
         nome: "Game Universe",
         repositorio: "https://github.com/Tinhow/projeto-com-assync/tree/master",
         app: "https://tinhow.github.io/projeto-com-assync/"
+    },
+    {
+        nome: "Buscador de CEP",
+        repositorio: "https://github.com/PauloGcp/buscador_cep",
+        app:"https://github.com/PauloGcp/buscador_cep"
     }
 ];
 
